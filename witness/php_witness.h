@@ -45,7 +45,6 @@ PHP_FUNCTION(witness_assert);
 PHP_FUNCTION(witness_dump);
 PHP_FUNCTION(witness_stack_info);
 
-PHP_FUNCTION(confirm_witness_compiled);	/* For testing, remove later. */
 
 /* 
   	Declare any global variables you may need between the BEGIN
