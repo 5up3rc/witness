@@ -27,7 +27,7 @@ Introduction
 
 3. php.ini
   Add the following to your php.ini file :
-  [xhprof]
+  [witness]
   extension=witness.so
 
 4. check
