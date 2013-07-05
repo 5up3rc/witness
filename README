@@ -47,6 +47,7 @@ Introduction
   witness.record_internal => 1 => 1
   witness.temp_path => /dev/shm => /dev/shm
 
+Introduction in Chinese: http://tech.uc.cn/?p=1753
 
 Please contact the oswitness@ucweb.com if you have any questions.
 
