@@ -27,7 +27,7 @@ witness 在 Apache License version 2 开源协议下发布，
 
 3. php.ini
   在 php.ini 文件中添加以下内容 :
-  [xhprof]
+  [witness]
   extension=witness.so
 
 4. 检查
@@ -46,6 +46,8 @@ witness 在 Apache License version 2 开源协议下发布，
   witness.post_url => no value => no value
   witness.record_internal => 1 => 1
   witness.temp_path => /dev/shm => /dev/shm
+
+详细的使用介绍：http://tech.uc.cn/?p=1753
 
 如有任何问题，请联系 oswitness@ucweb.com
 
